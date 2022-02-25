@@ -1,0 +1,168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to the army, or, A friendly representation and humble request to the Honourable the L. Charles Fleetwood, commander in chief, and the Lord Lambert and the rest of the officers and souldiers of the army in England written a while since by a lover of his countrey, peace, truth the Parliament and Army.</title>
+            <author>Lover of his countrey.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67060</idno>
+            <idno type="STC">Wing W3570A</idno>
+            <idno type="STC">ESTC R26404</idno>
+            <idno type="EEBO-CITATION">09452506</idno>
+            <idno type="OCLC">ocm 09452506</idno>
+            <idno type="VID">43152</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43152)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1321:23)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to the army, or, A friendly representation and humble request to the Honourable the L. Charles Fleetwood, commander in chief, and the Lord Lambert and the rest of the officers and souldiers of the army in England written a while since by a lover of his countrey, peace, truth the Parliament and Army.</title>
+                  <author>Lover of his countrey.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodnoth,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+               <term>England and Wales. --  Army.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43152:1"/>
+            <!-- PDF PAGE 36 -->
+            <pb facs="tcp:43152:1"/>
+            <!-- PDF PAGE 36 -->
+            <p>A VVord to the Army, Or, A Friendly REPRESENTATION And Humble Requeſt to the Honourable the L. Charles Fleetvvood Commander in Chief, and the Lord <hi>Lambert,</hi> and the reſt of the Officers and Souldiers of the Army in <hi>England.</hi>
+            </p>
+            <p>Written a while ſince, by a Lover of his Countrey, Peace, Truth, the <hi>Parliament</hi> and Army.</p>
+            <q>
+               <bibl>PROV. <hi>22.3.</hi>
+               </bibl>
+               <p>A prudent man fore-ſeeth the evil and hideth himſelf, but the ſimple paſſe on and are puniſhed.</p>
+               <p>
+                  <bibl>
+                     <hi>Prov. 14.22.</hi>
+                  </bibl> Do they not err that deviſe evil? But mercy and truth ſhall he to them that deviſe good.</p>
+            </q>
+            <p>Printed for <hi>Richard Wodnoth</hi> at the <hi>Bible</hi> in <hi>Leaden-hall</hi>-ſtreet, 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="request">
+            <pb facs="tcp:43152:2"/>
+            <!-- PDF PAGE 37 -->
+            <pb n="1" facs="tcp:43152:2"/>
+            <!-- PDF PAGE 37 -->
+            <head>To the Right Honourable Charls Fleetvvood <abbr>Eſq.</abbr> Commander in Chief of the Forces in <hi>England,</hi> and the Lord <hi>Lambert,</hi> and other Officers of the Army, and to all among them that fear GOD.</head>
+            <opener>
+               <salute>Right Honourable and much Beloved,</salute>
+            </opener>
+            <p>GIve your ſervant leave I beſeech you to deal freely with you. The Son of <hi>Craeſus</hi> a dumb man, opened his mouth, when he ſaw his Father in danger to be killed, ſaying, Do not kill <hi>Craeſus,</hi> and ſhould not I when our politicall Father, the Parliament the Su<g ref="char:EOLhyphen"/>pream legal Authority in theſe three Nations is ſo dealt with by you? Theſe are not the words of an enemy but of a friend, who hath prayed a thouſand times for you, and doth ſtill, and they are not my ſenſe only, but the ſenſe (I dare be bold to ſay) of very many ten thouſands of the godly and well-affected people in theſe Nations. You do know, and we do know, put out that you do know and have acknowledged, That the holy Scrip<g ref="char:EOLhyphen"/>tures are the Word of God, and the only Rule of Faith and Life, and the only means of Salvation, and not old Traditions or new Revelations. That Jeſus Chriſt is the Son of God, and very God, &amp; the only Saviour of men. That the preaching of the Word by a Learned, faithful &amp; godly Miniſtery, lawfully called and ſolemnly ſet a part to that work, is an Ordinance of Jeſus Chriſt to con<g ref="char:EOLhyphen"/>tinue to the end of the world, for the gathering and building his Church. And ſure you do or may know the great deſign of the Romiſh Prieſts, Jeſuites, and Quakers, and many others amongſt us, though on different grounds, is to take away our Miniſter a eſtabliſhed maintenance, in order to overthrow the Miniſtery it ſelf; for they well know, that if Tythes be once down, no other maintenance will, or can be be ſettled, that will pleaſe all, or the
+<pb n="2" facs="tcp:43152:3"/>
+               <!-- PDF PAGE 38 -->greateſt part of them you count godly, (not to maintain others) or to continue, and ſo to overthrow the Goſpel it ſelf, to pull down Chriſts Kingdom, and advance Antichriſts; this is the work of <hi>Rome,</hi> which we hope you do abhorr. Alſo you do know that Magiſtracy is an Ordinance of God, That all men ought to be ſubject to the Magiſtrate for Conſcience ſake, in all things law<g ref="char:EOLhyphen"/>full though the men be bad, And that they that reſiſt, do reſiſt the Ordinance of God, and ſhall receive to themſelves damna<g ref="char:EOLhyphen"/>tion: Alſo, you do know, That the Parliament of <hi>England</hi> is the Supream Authority in theſe Nations, That it is the undoubted priviledge of the Parliament to ſit, Act, and determine freely ac<g ref="char:EOLhyphen"/>cording to their Judgment and Conſciences; I may add, <hi>That it is not to be preſumed or imagined, That a Parliament equally cho<g ref="char:EOLhyphen"/>ſen by the good people of this Nation, can betray or deſert their Trust and Native Countrey, in whoſe welfare their own doth ſo much conſist, though ſome perticuler perſons may and have done.</hi> And that it is the undoubted Right of the people (not of the Army or ſome few perſons only) to chooſe their own Repreſen<g ref="char:EOLhyphen"/>tatives, alſo to Petition and repreſent their deſires and thoughts to them, as they conceive cauſe, and then to acquieſce in their determination, and to obey them in all things lawful, That if matter of controverſie do ariſe concerning any publick Affairs, not you, or we are the publick Judges, but the Parliament; Our Repreſentatives duty is to judge and determine for us both, and your and our duty is to obey, either actively or paſſively, accor<g ref="char:EOLhyphen"/>ding to our private judgment of diſcretion. And you do know, that you had your Call and Commiſſion from this Parliament, to fight <hi>for the preſervation of the true reformed Protestant Re<g ref="char:EOLhyphen"/>ligion, the Priviledge of Parliament, the just Liberties of the People, and the good old Lawes of the Land.</hi> This is the true good old Cauſe and that not according to your apprehenſions, but according to the directions of the Parliament, both at your firſt call and Commiſſioning, and lately ſince you invited and en<g ref="char:EOLhyphen"/>treated them to ſit again,
+<note place="margin">
+                  <hi>In your Decla. May</hi> 11 1559.</note> and to go on to perform the truſt repoſed in them by the people. And you did de<g ref="char:EOLhyphen"/>clare, That you did greatly rejoyce to ſee and read their Declaration of <hi>May</hi> 7, and that you would aſſiſt them in ſettling the <hi>Commonwealth.</hi>
+            </p>
+            <pb n="3" facs="tcp:43152:3"/>
+            <!-- PDF PAGE 38 -->
+            <p>And you do know <hi>that Souldiers ought to obey their Superiors that did call and commiſſion them to do violence to no man, to ac<g ref="char:EOLhyphen"/>cuſe none falſely, and be contented with their wages,</hi> and not turn their Maſters out of doores, and take the Power to themſelves, with what face then can you lift up your hands, and with what Conſcience appeare before God or men, who have by force took on you the Supream power of judging, turned out the Parlia<g ref="char:EOLhyphen"/>ment alſo, contrary to Laws of God, and the truſt repoſed in you by them and us, and contrary to your own late free engagement, and this when they were doing their duty, and had not betrayed their truſt, and quite contrary alſo to the intention and deſire of us the farr greateſt part of the honeſt and well-affected of the people. And ſince this was written, voted down (as, tis common<g ref="char:EOLhyphen"/>ly reported) the Miniſters Lawfull, Antient Eſtabliſhed mainte<g ref="char:EOLhyphen"/>nance which is their freehold, and in which, doing the work, they have as good a propriety as you have to your Lands, Swords, Horſes, or any thing you have, to the great ſcandall of Religion, which you profeſs above all us to the great grief, and ſadding the hearts of (I am ſure) the farr greater part of the truly Godly and well affected to the common good; you have hereby alſo much hardened the hearts of the old Malignants, Royaliſts and Epiſcopall party, given them great hopes and advantage to ruin both you and theſe three Nations, and opened their mouths wide too juſtly to reproach <hi>the famous long Parliament</hi> (as you your ſelves, not long ſince find it) the Army and all the good people who have ſpent much blood and treaſure to further an happy and juſt reformation and ſettlement in the Church and civil State; <hi>Opend</hi> a door for the deluded bewitched Popiſh Quakers, and all Blaſphemers to poyſon, ſeduce, and deſtroy ſouls, and for the Romiſh Prieſts and Jeſuits, and ſuch like Emiſſaries (which many feare have ſecretly a great influence in your Counſells and actings to make and widen our breaches and diviſions, to undermine and overthrow Religion and civill Government, and ſeduce us againe to be Slaves to <hi>Rome</hi>) though you have often declared in print againſt toleration of Popery, and weakened the hearts and hands of the far greateſt part of the truly Godly and honeſt par<g ref="char:EOLhyphen"/>ty; And that at ſuch a time when there are two powerfull Ar<g ref="char:EOLhyphen"/>mies abroad, ready to be imployed to help <hi>Ch. St.</hi> to invade
+<pb n="4" facs="tcp:43152:4"/>
+               <!-- PDF PAGE 39 -->theſe Nations, to the utter ruin both of Church and State, and all our juſt Liberties and Priviledges; Alſo when the Proteſtant party abroad call for our help, being in great danger by the con<g ref="char:EOLhyphen"/>federate Popiſh Princes, ſo that we know not what to ſay and plead for you, ourſelves and the good people of theſe Nations, againſt our Adverſaries that reproach us.</p>
+            <p>Gentlemen, we moſt earneſtly and humbly beſeech you, <hi>as</hi> you are men, <hi>as Engliſhmen, as</hi> Chriſtians, <hi>as</hi> you love your Native Country, Friends and deareſt Relations, <hi>As</hi> you love God and Jeſus Chriſt, and his glorious Goſpel, truth and Ordinances, the only means of your Salvation, <hi>as</hi> you would prevent the ef<g ref="char:EOLhyphen"/>fuſion of much blood, and ruin of theſe three Nations and Reli<g ref="char:EOLhyphen"/>on; <hi>As</hi> you love your own ſelves, <hi>And</hi> as you will anſwer with comfort before Jeſus Chriſt the Righteous and all-knowing Judg, before whom both you and we muſt all after a few dayes appeare, be ingenious, be <hi>Engliſhmen,</hi> be Chriſtians, indeed &amp; good earneſt ſpeedily and ſincerely repent, humble your ſouls before <hi>God</hi> and men, beg pardon, and do what poſſibly in you lieth, that the Members of Parliament lately interrupted, may come together againe, ſit and Act freely, according to their judgments and Con<g ref="char:EOLhyphen"/>ſciences, to ſettle us in the forme of a free Commonwealth, and the great things contended for agreeable to the revealed Will of God; and that a good Confeſſion of Faith may be ſettled as the publick profeſſion of theſe Nations, that the World may not ſay we are of no Religion; <hi>That</hi> a Godly and Righteous Magi<g ref="char:EOLhyphen"/>ſtracy, and a Learned, Godly, Faithfull, and painfull Miniſtry be alſo ſettled and encouraged with the famous Univerſities, and all wholſome literature. <hi>That</hi> Popiſh Quakers, Socinians and Anti<g ref="char:EOLhyphen"/>ſcriptuariſts, &amp; Antitrinitarians may be reſtrained from diſturbing others in the Worſhip of God, and confined to private places and ſmall numbers; <hi>And</hi> that the Romiſh Prieſts and Jeſuits be effectually diſcovered and baniſhed under pain of death, as many other States have done with the Jeſuits, the Incendiaries of Chriſtendome. <hi>And</hi> proviſion made for the choiſe of another Repreſentative of perſons fitly qualified to ſit down when theſe are to diſſolve; <hi>To</hi> carry on and perfect the work of an holy and Righteous Reformation, ſo ſhall we and all the Godly and good people of this Commonwealth reioyce with you, bleſs God
+<pb n="5" facs="tcp:43152:4"/>
+               <!-- PDF PAGE 39 -->for you, and fervently pray for you, <hi>Peace</hi> and Truth will be ſettled, the Salvation of Souls furthered, our intereſt in <hi>Flan<g ref="char:EOLhyphen"/>ders</hi> continued, a thing of great concernment, <hi>The Protestant</hi> cauſe and Profeſſors abroad much revived, <hi>And</hi> our common Enemies aſhamed and diſappointed, <hi>And you</hi> ſhall live and die in great honour &amp; happineſs, and leave your names and poſteri<g ref="char:EOLhyphen"/>ties a bleſſing in the Earth.</p>
+            <p>But if you will not harken to theſe wholſome and neceſſary adviſes and humble requeſts we ſhall ſit down and weep for you in ſecret, and over our dying Religion, Peace, Lawes, Libertyes and Happineſs, yet ſhall not ceaſe day and night to pray for you, that God would give you ſober and ſerious thoughts, ſo as to return to your firſt engagement and works, but if you will not, deliverance ſhall come ſome other way, and you and thoſe that adhear to you in thoſe unparliamentary wayes, who now ſeek to maintaine and greaten your Houſes, Eſtates, Honours and Domination, wordly intereſt (for which you do blame the Par<g ref="char:EOLhyphen"/>liament we think unjuſtly, notwithſtanding any thing we have yet read or heard) and your names ſhall periſh as ſome great mens have done before your eyes.</p>
+            <p>But I perſwade myſelf I ſhall hear &amp; ſee better things of you, that the former things were done in fits of paſſion, raiſed and blinded with ſelf-intereſt, and ſelf-love, and that the valiant ſpi<g ref="char:EOLhyphen"/>rit of true <hi>Engliſhmen</hi> will againe appeare, and your Chriſtian Conſciences will awake and get upmoſt againe, to return to a right underſtanding, and acting vigorouſly in your own ſpheare in a right way when there ſhall be juſt cauſe, as Free-borne <hi>Eng<g ref="char:EOLhyphen"/>liſhmen</hi> and true Chriſtians, that make the word of God the rule, and the good Lawes of the Land, and commands of Superiours.</p>
+            <p>And if you do return to act according to your Engagements, and the truſt repoſed in you by the good people in <hi>Parliament,</hi> and do indeed ſeek God and his Glory, and the Commonwealth of theſe Nations firſt and chiefly, he will be found of you; If you neglect him, he will neglect you; mind God and he will mind you, honour God and he will honour you, Act according to the rule of His Word and the truſt repoſed in you by the Par<g ref="char:EOLhyphen"/>liament, and he will Protect and Exalt you; Never think to be Bleſſed in your deeds, and a Bleſſing to theſe Nations, if you go
+<pb n="6" facs="tcp:43152:5"/>
+               <!-- PDF PAGE 40 -->on to Act ſo irregularly, but that thing will grow worſe and worſe; <hi>Never</hi> think to ſee this Commonwealth ſettled with Truth and Peace while Romiſh Prieſts, Jeſuits, and abominable Blaſphemers are ſuffered among us, whoſe great defigne is to corrupt, poyſon, and ſeduce poor Souls, hinder the <hi>Goſpel,</hi> the Salvation of Souls and all good ſettlement, <hi>Nor</hi> do not think that Quakers that offer you their Service, when they have power in their hands, will long be your friends if you be for Chriſt, his Words and Ordinances, <hi>Or</hi> that the common people will al<g ref="char:EOLhyphen"/>wayes be ridden and made <hi>Slaves</hi> by them that ſhould ſerve them and help to make them free.</p>
+            <p>Pray pardon my ſadneſs, I could not be at reſt till I had writ<g ref="char:EOLhyphen"/>ten thus, conſulted with ſome others whom I know wiſh you well and honour you, and communicated my thoughts to you. I am a Free-borne <hi>Engliſhman,</hi> I might ſay more but forbeare, It is the true reformed Proteſtant Religion, the flouriſhing of the Goſpel, the Ordinances of God, and hand of Chriſt, the wel<g ref="char:EOLhyphen"/>fare of my native Country and yours alſo I am pleading for, and whoſe welfare I ſeek above all particular intereſt in the world; I have often ſpoken for you, written for you, acted for you, pray<g ref="char:EOLhyphen"/>ed for you from the firſt day to this very day, and I hope ſhall ever perſiſt in the beſt wiſe I can to promote theſe publick end; and intereſts; I count not my name worth your knowledge, no matter how low I be in the eſteeme of men, ſo Chriſt, his Truth, Ordinances &amp; people be exalted, eſtabliſhed, and flouriſh in Pu<g ref="char:EOLhyphen"/>rity, Holineſs, and Righteouſneſs; My Lords and Gent. I re<g ref="char:EOLhyphen"/>maine your faithfull and conſtant Orator &amp; Servant to aſſiſt you to his power ſo far as he doth apprehend you walk and act Righ<g ref="char:EOLhyphen"/>teouſly, and hope yet to ſee the day again to praiſe God for you and with you; <hi>Amen,</hi> ſo be it.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43152:5"/>
+            <!-- PDF PAGE 40 -->
+         </div>
+      </body>
+   </text>
+</TEI>
